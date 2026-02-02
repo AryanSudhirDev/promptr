@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-01-05T00:00:00.000Z",
-  "token_count": 90,
+  "token_count": 120,
   "token_type": "premium_time_limited",
   "features": [
     "unlimited_requests_until_expiry",
@@ -114,6 +114,42 @@
       "PROMPTR_PREMIUM_eKuihNC_0Jmt4AvsYz9FldAgDinxsvQ4cFkluACPQ3g",
       "PROMPTR_PREMIUM_CHbeLUKIcQyT2Fmf6OV4aAGRcokeck-PH40r2liYPQs",
       "PROMPTR_PREMIUM_Qral_1seVbdQ2TkfIczlvrdPVCH-n9KzCPL1cuCmZe0"
+    ]
+  },
+  "batch4": {
+    "name": "Batch 4 - Expires Jan 26, 2026 (3 weeks)",
+    "expiresAt": "2026-01-26",
+    "tokens": [
+      "PROMPTR_PREMIUM_kiYILLOCyB1cO8vHCYbww_XEpQgWN8kWFtZMRviu0Ko",
+      "PROMPTR_PREMIUM_8Nh82Zx_WHA0oMN9dI4WwxLW4LsEBw_8jhdjf4B3stk",
+      "PROMPTR_PREMIUM_a5_2JR5RlyyksmgxtKnHqi8Fu_gjo573pHHZ__9n4z0",
+      "PROMPTR_PREMIUM_2Fr6v9d0luTRjCoB6bep0xYoM93Doe0ooOA9Mm_qW_Y",
+      "PROMPTR_PREMIUM_3qk0nU-knMxKxSUWxahKK_vS_zduqy24woowqUDAV3U",
+      "PROMPTR_PREMIUM_UMC5728A74ymhVPcz75XHrgeMCrAmckwhbgJ_9sGgec",
+      "PROMPTR_PREMIUM_xHAEFjRHlTGpd2ytpfPRp5vRyCiq4Ugfa4sGmWjNg7Q",
+      "PROMPTR_PREMIUM_fia-pbuPgolVx2VQoZdNidTVrVTu-NmmhdjHh3cU6Nc",
+      "PROMPTR_PREMIUM_-SVxnZOOmAyu6boNSc5ifJo-5tZUECYy22SwhOFJDC0",
+      "PROMPTR_PREMIUM_LR6q_1jrIxJfIbKQFifqvwriWmZB-NiX5MNvPlEC67k",
+      "PROMPTR_PREMIUM_FxIpFla5YFNLEs4QaWWxdYTPlo1bZrDeefzl8VjSZwI",
+      "PROMPTR_PREMIUM_3jCT_cpwPvLC6zKwNhV-hQ9KHxVc0pg3oKwlFCjshgY",
+      "PROMPTR_PREMIUM_DRosJuVvYWUF3ttyDZGX1B_m1cXBNRXIVrfj6sfbCYI",
+      "PROMPTR_PREMIUM_vFStM4RqDoBjr7Cp-1BZvqnqeYh7uWqhwDSYLx_z1jg",
+      "PROMPTR_PREMIUM_WL43RTKfnFyIiAbjHz__XmjvrbFZJcAXF0avXo3iu2s",
+      "PROMPTR_PREMIUM_9MOmJx16UhA_4beSj8d574wp0govb8p0FRwxcQJH8hY",
+      "PROMPTR_PREMIUM_Gaf0EFB1oQBQqTAeerpy5oL_y_84E6MRoANgZfzN_3I",
+      "PROMPTR_PREMIUM_IZv68KqM1UOmr-tIVk4lHjcIAZkmL1AxpNCYYkt9fpw",
+      "PROMPTR_PREMIUM_L0ws2gtfBIDiU5wMnfcWjbZ6Z_yMz8BTw92rI9za8-0",
+      "PROMPTR_PREMIUM_WONzeqZB_6Ewd70uxy991vkDJT0_v5DhQo3w63g731A",
+      "PROMPTR_PREMIUM_NxkioUWIyAkOg9K7xDwrfHvVVsx7WAF69QnSHvCFaAI",
+      "PROMPTR_PREMIUM_wyDfGVP8iaW4qlW22wFa-k5YXc1StEL2gx7PY4RJPQA",
+      "PROMPTR_PREMIUM_J7D5lMapu-UDhVPnsGmJtV3BQ5rzpeWhT8MnwSC97P0",
+      "PROMPTR_PREMIUM_9-rLQ0fMM19BKvynBx2kAN-mVddBZG9r5am1HEz83Ag",
+      "PROMPTR_PREMIUM_fNGex-nvKwM156_lXq2UcibDZDkPO4xPnYgcCIC6eRY",
+      "PROMPTR_PREMIUM_MujMtQCBxGWwMrtiy6AD8YoiJHXJ_RYTDESZsE7J7UE",
+      "PROMPTR_PREMIUM_CPBySngrW8JnZNiA49dVMe_SJDJxeOi6cc_y6FZZnWo",
+      "PROMPTR_PREMIUM_wl74j-mNrYZnssN53_RcFy6iTZy6CsULr2Lwnu3dCbQ",
+      "PROMPTR_PREMIUM_TyhCfqDuyZaOlDDkIzp8V38ZnHUMPK62MEAdKupg49g",
+      "PROMPTR_PREMIUM_d1KTp1tL4WL-tr2p4-9yOSWcwCPsprZwwykbkuHl7EQ"
     ]
   }
 }

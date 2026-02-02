@@ -1,5 +1,28 @@
 # Changelog
 
+## [1.5.5] - 2026-01-05
+
+### 🆕 Batch 4 Time-Limited Tokens (3 Weeks)
+
+#### Added
+- **30 New Time-Limited Tokens**: Added Batch 4 with tokens expiring in 3 weeks (January 26, 2026)
+- **Shorter Expiration**: First batch with 3-week expiration instead of 1 month
+- **Total Time-Limited Tokens**: Now 120 tokens (4 batches)
+
+#### Technical Details
+- Added 30 tokens to `TOKEN_EXPIRATION` map
+- Updated `premium-tokens-expiring.json` with batch 4
+- Updated `TIME_LIMITED_TOKENS.md` documentation
+- Bundle size increased from 58.6 KB → 60.7 KB
+
+#### Token Distribution
+- **Batch 1-3:** 90 tokens expire Feb 6, 2026 (1 month)
+- **Batch 4:** 30 tokens expire Jan 26, 2026 (3 weeks)
+- **Total Time-Limited:** 120 tokens
+- **Total Premium Tokens:** 210 (90 permanent + 120 time-limited)
+
+---
+
 ## [1.5.4] - 2026-01-05
 
 ### 🆕 Time-Limited Premium Tokens

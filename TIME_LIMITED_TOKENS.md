@@ -1,7 +1,9 @@
 # ⏰ Time-Limited Premium Access Tokens
 
 ## 📋 Overview
-This document contains **90 time-limited premium access tokens** that expire after 1 month. These tokens are organized into 3 batches of 30 tokens each.
+This document contains **120 time-limited premium access tokens** organized into 4 batches:
+- **Batches 1-3:** 90 tokens expiring on February 6, 2026 (1 month)
+- **Batch 4:** 30 tokens expiring on January 26, 2026 (3 weeks)
 
 ## ⚠️ Important Information
 - **Expiration Date:** All tokens expire on **February 6, 2026**
@@ -114,12 +116,49 @@ PROMPTR_PREMIUM_CHbeLUKIcQyT2Fmf6OV4aAGRcokeck-PH40r2liYPQs
 PROMPTR_PREMIUM_Qral_1seVbdQ2TkfIczlvrdPVCH-n9KzCPL1cuCmZe0
 ```
 
+## 🔐 Batch 4 (30 Tokens) - Expires Jan 26, 2026 (3 weeks)
+
+```
+PROMPTR_PREMIUM_kiYILLOCyB1cO8vHCYbww_XEpQgWN8kWFtZMRviu0Ko
+PROMPTR_PREMIUM_8Nh82Zx_WHA0oMN9dI4WwxLW4LsEBw_8jhdjf4B3stk
+PROMPTR_PREMIUM_a5_2JR5RlyyksmgxtKnHqi8Fu_gjo573pHHZ__9n4z0
+PROMPTR_PREMIUM_2Fr6v9d0luTRjCoB6bep0xYoM93Doe0ooOA9Mm_qW_Y
+PROMPTR_PREMIUM_3qk0nU-knMxKxSUWxahKK_vS_zduqy24woowqUDAV3U
+PROMPTR_PREMIUM_UMC5728A74ymhVPcz75XHrgeMCrAmckwhbgJ_9sGgec
+PROMPTR_PREMIUM_xHAEFjRHlTGpd2ytpfPRp5vRyCiq4Ugfa4sGmWjNg7Q
+PROMPTR_PREMIUM_fia-pbuPgolVx2VQoZdNidTVrVTu-NmmhdjHh3cU6Nc
+PROMPTR_PREMIUM_-SVxnZOOmAyu6boNSc5ifJo-5tZUECYy22SwhOFJDC0
+PROMPTR_PREMIUM_LR6q_1jrIxJfIbKQFifqvwriWmZB-NiX5MNvPlEC67k
+PROMPTR_PREMIUM_FxIpFla5YFNLEs4QaWWxdYTPlo1bZrDeefzl8VjSZwI
+PROMPTR_PREMIUM_3jCT_cpwPvLC6zKwNhV-hQ9KHxVc0pg3oKwlFCjshgY
+PROMPTR_PREMIUM_DRosJuVvYWUF3ttyDZGX1B_m1cXBNRXIVrfj6sfbCYI
+PROMPTR_PREMIUM_vFStM4RqDoBjr7Cp-1BZvqnqeYh7uWqhwDSYLx_z1jg
+PROMPTR_PREMIUM_WL43RTKfnFyIiAbjHz__XmjvrbFZJcAXF0avXo3iu2s
+PROMPTR_PREMIUM_9MOmJx16UhA_4beSj8d574wp0govb8p0FRwxcQJH8hY
+PROMPTR_PREMIUM_Gaf0EFB1oQBQqTAeerpy5oL_y_84E6MRoANgZfzN_3I
+PROMPTR_PREMIUM_IZv68KqM1UOmr-tIVk4lHjcIAZkmL1AxpNCYYkt9fpw
+PROMPTR_PREMIUM_L0ws2gtfBIDiU5wMnfcWjbZ6Z_yMz8BTw92rI9za8-0
+PROMPTR_PREMIUM_WONzeqZB_6Ewd70uxy991vkDJT0_v5DhQo3w63g731A
+PROMPTR_PREMIUM_NxkioUWIyAkOg9K7xDwrfHvVVsx7WAF69QnSHvCFaAI
+PROMPTR_PREMIUM_wyDfGVP8iaW4qlW22wFa-k5YXc1StEL2gx7PY4RJPQA
+PROMPTR_PREMIUM_J7D5lMapu-UDhVPnsGmJtV3BQ5rzpeWhT8MnwSC97P0
+PROMPTR_PREMIUM_9-rLQ0fMM19BKvynBx2kAN-mVddBZG9r5am1HEz83Ag
+PROMPTR_PREMIUM_fNGex-nvKwM156_lXq2UcibDZDkPO4xPnYgcCIC6eRY
+PROMPTR_PREMIUM_MujMtQCBxGWwMrtiy6AD8YoiJHXJ_RYTDESZsE7J7UE
+PROMPTR_PREMIUM_CPBySngrW8JnZNiA49dVMe_SJDJxeOi6cc_y6FZZnWo
+PROMPTR_PREMIUM_wl74j-mNrYZnssN53_RcFy6iTZy6CsULr2Lwnu3dCbQ
+PROMPTR_PREMIUM_TyhCfqDuyZaOlDDkIzp8V38ZnHUMPK62MEAdKupg49g
+PROMPTR_PREMIUM_d1KTp1tL4WL-tr2p4-9yOSWcwCPsprZwwykbkuHl7EQ
+```
+
 ## 📊 Summary
 
-- **Total Tokens:** 90
-- **Batches:** 3
+- **Total Tokens:** 120
+- **Batches:** 4
 - **Tokens per Batch:** 30
-- **Expiration Date:** February 6, 2026
+- **Expiration Dates:** 
+  - Batch 4: January 26, 2026 (3 weeks)
+  - Batches 1-3: February 6, 2026 (1 month)
 - **Token Type:** Time-limited premium access
 - **Status:** All tokens are currently **ACTIVE**
 
@@ -141,8 +180,10 @@ Token expired on 2026-02-06. Please get a new token from usepromptr.com/account
 ## 🔄 Token Management
 
 - **Permanent Tokens:** Still available in `PREMIUM_ACCESS_TOKENS.md` (90 tokens)
-- **Time-Limited Tokens:** This file (90 tokens, expire Feb 6, 2026)
-- **Total Available:** 180 premium access tokens
+- **Time-Limited Tokens:** This file (120 tokens)
+  - Batch 4: 30 tokens expire Jan 26, 2026
+  - Batches 1-3: 90 tokens expire Feb 6, 2026
+- **Total Available:** 210 premium access tokens (90 permanent + 120 time-limited)
 
 ## 📝 Notes
 
