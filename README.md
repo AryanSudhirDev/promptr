@@ -53,6 +53,19 @@ Click the `Promptr 🔥 0.3` status bar item to:
 
 Get your token at [usepromptr.com/account](https://usepromptr.com/account)
 
+## Token batches
+
+Create the next short-token batch in `premium-tokens-expiring.json`:
+
+```bash
+npm run tokens:create
+npm run tokens:create -- --count 30
+npm run tokens:create -- --count 30 --expires 2026-07-05
+npm run tokens:create -- --count 30 --deploy
+```
+
+The script syncs from the live token file, validates counts and uniqueness, prints the new tokens, and does not create a git commit. `--deploy` runs `vercel --prod --yes` only when this checkout is linked to the existing promptr-api project and still serves `/api/tokens`.
+
 ## Support
 
 - Issues: [GitHub Issues](https://github.com/AryanSudhirDev/polaris-extension/issues)
